@@ -1,6 +1,6 @@
 {
   "name": "GST",
-  "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/global-shopping.svg",
+  "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/global-shopping.png",
   "keywords": [
     "GST",
     "defi"
@@ -13,7 +13,7 @@
       "name": "GlobalShoppingToken",
       "symbol": "GST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_GST.svg"
+      "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_GST.png"
     }
   ],
   "version": {
