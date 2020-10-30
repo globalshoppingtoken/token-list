@@ -1,0 +1,24 @@
+{
+  "name": "GST",
+  "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/global-shopping.svg",
+  "keywords": [
+    "GST",
+    "defi"
+  ],
+  "timestamp": "2020-10-30T20:16:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x60D64D8FF2b074578FD64998476a8554C6320869",
+      "name": "GlobalShoppingToken",
+      "symbol": "GST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_GST.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
