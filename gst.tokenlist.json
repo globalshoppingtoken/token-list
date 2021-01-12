@@ -1,24 +1,110 @@
 {
-  "name": "GlobalShopping",
-  "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/global-shopping.png",
-  "keywords": [
-    "GST",
-    "defi"
-  ],
-  "timestamp": "2020-10-30T20:16:00.000+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x60D64D8FF2b074578FD64998476a8554C6320869",
-      "name": "GlobalShoppingToken",
-      "symbol": "GST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_GST.png"
+    "name": "GlobalShopping",
+    "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/global-shopping.png",
+    "keywords": [
+        "GST",
+        "defi"
+    ],
+    "timestamp": "2021-01-12T9:11:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x60D64D8FF2b074578FD64998476a8554C6320869",
+            "name": "GlobalShoppingToken",
+            "symbol": "GST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_GST.png"
+        },
+        {
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "chainId": 1,
+            "name": "TetherUSD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_USDT.png"
+        },
+        {
+            "address": "0xe5506F2d0E7677d889B525d23AA19a522Da34643",
+            "chainId": 1,
+            "name": "ADAM",
+            "symbol": "ADAM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_ADAM.png"
+        },
+        {
+            "address": "0x53Ce887fF39892ED909B45e4D2d8200b717111e2",
+            "chainId": 1,
+            "name": "AGlobalShoppingToken",
+            "symbol": "AGST",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_AGST.png"
+        },
+        {
+            "address": "0x2f7098696aac7c114a013229c3c752e41b07e80f",
+            "chainId": 1,
+            "name": "DecentralizedStableAsset",
+            "symbol": "DSA",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_DSA.png"
+        },
+        {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "chainId": 1,
+            "name": "DaiStablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_DAI.png"
+        },
+        {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "chainId": 1,
+            "name": "WrappedEther",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_WETH.png"
+        },
+        {
+            "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+            "chainId": 1,
+            "name": "SushiSwap",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_SUSHI.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_WBTC.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "symbol": "UNI",
+            "name": "Uniswap",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_UNI.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+            "symbol": "ZRX",
+            "name": "Matcha",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/globalshoppingtoken/token-list/master/assets/asset_ZRX.png",
+            "tags": [
+                "defi"
+            ]
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
 }
